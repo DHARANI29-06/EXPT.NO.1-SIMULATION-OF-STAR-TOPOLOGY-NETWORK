@@ -26,8 +26,7 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # NETWORK DIAGRAM
-<img width="1433" height="1600" alt="WhatsApp Image 2026-06-01 at 9 16 57 PM" src="https://github.com/user-attachments/assets/f8065591-ca58-4e6c-b1af-4d5ab463c1c8" />
-
+<img width="1600" height="818" alt="WhatsApp Image 2026-06-01 at 9 37 34 PM" src="https://github.com/user-attachments/assets/4f378b3b-0811-4644-96f5-e37f1121ddba" />
 
 
 
